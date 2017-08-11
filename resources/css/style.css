@@ -9,7 +9,7 @@ h1{
   font-weight: normal;
   background-color: black;
 }
-#download{
+#download a {
   font-size: 16px;
   text-decoration: underline;
   color: Aquamarine;
